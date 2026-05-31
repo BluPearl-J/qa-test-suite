@@ -1,1 +1,1 @@
-# qa-test-suite
+"Production QA test suite — Playwright + TypeScript"
